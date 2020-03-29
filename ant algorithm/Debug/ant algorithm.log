@@ -1,0 +1,6 @@
+﻿  ant algorithm.cpp
+c:\users\stitch\source\repos\ant algorithm\ant algorithm\ant algorithm.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\stitch\source\repos\ant algorithm\ant algorithm\ant algorithm.cpp(179): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+c:\users\stitch\source\repos\ant algorithm\ant algorithm\ant algorithm.cpp(181): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\stitch\source\repos\ant algorithm\ant algorithm\ant algorithm.cpp(192): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  ant algorithm.vcxproj -> C:\Users\Stitch\source\repos\ant algorithm\Debug\ant algorithm.exe
